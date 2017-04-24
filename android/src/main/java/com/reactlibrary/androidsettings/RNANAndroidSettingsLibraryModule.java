@@ -2,6 +2,7 @@
 package com.reactlibrary.androidsettings;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.provider.Settings;
 
 import com.facebook.react.bridge.ReactApplicationContext;
